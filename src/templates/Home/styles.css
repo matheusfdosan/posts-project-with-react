@@ -1,0 +1,17 @@
+.App {
+  padding: 1rem;
+}
+
+.search-container {
+  padding: 1rem;
+}
+
+span {
+  color: gray;
+  font-size: 1.4rem;
+}
+
+p {
+  padding: 1rem;
+  color: gray;
+}
