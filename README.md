@@ -20,3 +20,4 @@ Depois do create-react-app ser executado, aparecerá uma estrutura para rodar o 
 No React podemos utilizar componentes de Classe ou de Função. Em versões antigas do React, nós precisavamos ter componentes de função como _Stateless_, ou seja, sem estado, e componentes de Classe como _Stateful_, com estado. Hoje já é diferente, nós temos os Hooks do React que nos permite controlar o estado do componente, sendo ele de classe ou de função.
 
 - [Componentes de Classes](docs/componentes-de-classes.md)
+- [Componentes de Função](docs/componentes-de-funcao.md)
